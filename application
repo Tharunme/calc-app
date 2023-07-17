@@ -1,4 +1,4 @@
-#simple calculator application, where only addition, clear and equal are defined
+#Simple calculator application, where only addition, clear and equal are defined
 #building calculator
 from tkinter import*
 
